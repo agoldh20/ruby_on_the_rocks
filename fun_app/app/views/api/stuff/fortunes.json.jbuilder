@@ -1,0 +1,1 @@
+json.your_fortune @fortune
